@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #2e1a47;
+  color: #ffffff;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #4b2a73;
+  font-size: 50px;
+}
+
+h2 {
+  color: #6a3fa0;
+}
+
+h3 {
+  color: #7a47bd;
+}
+
+a {
+  color: #6a3fa0;
+}
+
+.LogoImg{
+  height: 300px;
+  width: 300px;
+}
+
+section {
+  background-color: #E6E6E6;
+  color: #333333;
+  border: 3px solid #8e5bd0;
+  padding: 15px;
+  margin: 0 auto 20px auto;
+  max-width: 800px;
+}
+
+.Destinos {
+  display: block;
+  width: 300px;
+  max-width: 100%;
+  margin: 10px auto 20px auto;
+  border: 3px solid #b388eb;
+}
+
+form {
+  background-color: #E6E6E6;
+  color: #333333;
+  border: 3px solid #8e5bd0;
+  padding: 15px;
+  margin: 0 auto 20px auto;
+  max-width: 800px;
+}
+
+label {
+  color: #4b2a73;
+  font-weight: bold;
+}
+
+input {
+  width: 60%;
+  padding: 6px;
+  margin: 10px 0;
+  border: 2px solid #b388eb;
+}
+
+button {
+  background-color: #6a3fa0;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #6a3fa0;
+  color: #ffffff;
+  padding: 15px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+footer h3 {
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
+}
